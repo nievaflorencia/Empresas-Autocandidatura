@@ -1,12 +1,29 @@
-# Introducción ✨
+✨
 
-Este es un repositorio con una lista de empresas a las cuales podrás presentarte mediante una postulación espontánea o autocandidatura. Las empresas son de todo LATAM, y algunas de España que ofrecen modalidad remoto.  
+Este es un repositorio con una lista de empresas a las cuales podrás presentarte mediante una postulación espontánea o autocandidatura. Las empresas son de todo LATAM, y algunas que ofrecen modalidad remoto (para las cuales tenemos un beneficio 🎁)
+
+**Para empresas o consultoras** ⬇️⬇️⬇️⬇️⬇️⬇️
+
+🪄 Si quieres que tu empresa o consultora de RRHH aparezca en la lista, no dudes en contactarme para incorporarlos en el siguiente repositorio, ¡ESPERO TU MENSAJE 📨!
+
+![Empresas](../Autocandidaturas/img/empresas.png)
+
+
+📢 **Programa de referidos**
+
+💫 Lanzamos el programa de referidos para el sector IT, si estás buscando incorporar talento calificado a tu empresa; Contáctame para obtener más detalles o para compartir nombres de posibles candidatos. 
+
+![Referidos](../Autocandidaturas/img/referidos.png)
+
+
 
 # Auto-candidatura a Empresas 🧑‍🎓👩‍🎓👩‍💻🧑‍💻
 
 ¡Bienvenido a mi repositorio de auto-candidatura! Si estás interesado/a en trabajar en alguna de las siguientes empresas o simplemente deseas dejar tus datos para futuras oportunidades laborales, ¡este es el lugar adecuado!
 
 ## RECUERDA COMPARTIRLO Y NO TE OLVIDES DE SEGUIRME EN TODAS MIS REDES. 😊🥳
+
+[![Redes](https://ugc.production.linktr.ee/JhpTny5RRq6ymVOsxRPA_mm4UWjQQAz30B0pk?io=true&size=avatar-v1_0)](https://linktr.ee/decodigosomos)
 
 ## Consejos y Recursos 🪄
 
@@ -22,11 +39,18 @@ Si estás considerando presentar una auto-candidatura o postulación espontánea
 
 5. **Preparación para Entrevistas**: Prepara respuestas a posibles preguntas de la entrevista y practica tus habilidades de comunicación.
 
-6. **Seguimiento**: Después de enviar tu solicitud, realiza un seguimiento educado para mostrar tu interés en la posición.
+6. **Seguimiento**: Después de enviar tu solicitud, realiza un seguimiento para mostrar tu interés en la posición.
+
+7. **Idioma**: Como algunas de las vacantes requieren inglés por eso tengo un beneficio para vos 🎁
+- [Hardwick English](https://www.instagram.com/hardwickenglish/)
+>
+Recuerda mencionarme o a decodigosomos para hacer uso del beneficio 🎁
+>
+
 
 ## Sígueme en las Redes Sociales
 
-Si deseas mantener contacto y estar al tanto de mi trayectoria profesional, ¡no dudes en seguirme en mis redes sociales!
+Si deseas mantener contacto ¡no dudes en seguirme en mis redes sociales!
 
 - [Redes decodigosomos](https://linktr.ee/decodigosomos)
 
@@ -36,7 +60,7 @@ Si deseas mantener contacto y estar al tanto de mi trayectoria profesional, ¡no
 
 - [Instagram Flor!](https://www.instagram.com/flore_n33)
 
-¡Gracias por visitar mi repositorio! Si tienes alguna pregunta o sugerencia, no dudes en contactarme. Si te gusta mi contenido no dudes en regalarme un ☕
+¡Gracias por visitar mi repositorio!  Si te gusta mi contenido no dudes en regalarme un ☕
 
 ¡Buena suerte en tu búsqueda de empleo! 🍀
 
@@ -103,3 +127,43 @@ A continuación, te presento una lista de algunas empresas que podrías consider
 - [Zubi Group](https://apply.workable.com/zubi-group/#jobs)
 
 Estas son solo algunas de las empresas que encontré, ¡iré agregando más a este repo! 🌼
+
+
+## 📢 Lista Empresas 2024 
+
+- [Ancient](https://careers.ancient.gg/)
+- [Aerolab](https://aerolab.co/careers)
+- [Appinio](https://boards.eu.greenhouse.io/appinio)
+- [Aipem](https://aipem.com/)
+- [Awesome Motive](https://awesomemotive.com/careers/#positions)
+- [Agripay](https://agripay.ar/)
+- [Binance](https://www.binance.com/en/careers/job-openings?team=All)
+- [BiAgro](https://www.biagro.com.ar/#/)
+- [Bright Sector](https://www.brightsector.com/)
+- [Buffa Sistemas](https://www.bs.com.ar/envianos-tu-cv)
+- [Cloudwalk](https://cloudwalk.io/jobs)
+- [Circle](https://jobs.lever.co/circleco)
+- [Conexia](https://conexia.bamboohr.com/careers)
+- [Concentrix](https://jobs.concentrix.com/global/en/c/information-technology-jobs)
+- [Deca Games](https://decagames.com/#5)
+- [Elastic](https://jobs.elastic.co/#/)
+- [Ever Commerce](https://careers.evercommerce.com/us/en/search-results)
+- [Ford](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/)
+- [Genia](https://www.genia.ai/trabaja-con-genia)
+- [Huenei](https://huenei.viterbit.site/)
+- [Huawei](https://career.huawei.com/reccampportal/portal5/index.html)
+- [Iov Labs](https://www.iovlabs.org/careers)
+- [Incsub](https://incsub.com/careers/)
+- [Infosis](https://infosis.tech/join-us/)
+- [Invisible](https://www.invisible.co/technology-careers/)
+- [Kapsch](https://www.kapsch.net/es/carreras)
+- [Kaspersky](https://careers.kaspersky.com/)
+- [Orderdesk](https://www.orderdesk.com/careers/)
+- [Sourcegraph](https://sourcegraph.com/jobs)
+- [Superside](https://careers.superside.com/jobs)
+- [Sporty Group](https://careers.sporty.com/)
+- [Scopic](https://careers.scopicsoftware.com/)
+- [sprinklr](https://www.sprinklr.com/careers/)
+- [The Studio](https://www.thestudio.com/)
+- [Veeva](https://careers.veeva.com/)
+- [Xapo Bank](https://www.xapobank.com/careers)
